@@ -1,76 +1,108 @@
 <div align="center">
 
-  # 🚀 InCore Software Ukraine
+# IncoreSoft
 
-  ### Building Innovative Solutions for Tomorrow
+### AI-Powered Video Analytics from Ukraine
 
-  ---
+**Developers of [VEZHA](https://docs.incoresoft.com/iv/incoresoft-vezha-documentation-en-688129.html) — an intelligent video analytics platform**
 
-  **Enterprise-grade software development** | **Digital transformation** | **Custom solutions**
+[![Website](https://img.shields.io/badge/incoresoft.com-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://incoresoft.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/incoresoft-ukraine)
+[![Knowledge Base](https://img.shields.io/badge/Docs-Knowledge_Base-blue?style=for-the-badge)](https://docs.incoresoft.com/iv/incoresoft-vezha-documentation-en-688129.html)
+[![Help Desk](https://img.shields.io/badge/Support-Help_Desk-green?style=for-the-badge)](https://support.incoresoft.com/servicedesk/customer/portal/1)
 
-  [![Website](https://img.shields.io/badge/Website-incoresoft.com-blue?style=for-the-badge)](https://incoresoft.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/company/incoresoft-ukraine)
-  [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:contact@incoresoft.com)
+</div>
 
-  </div>
+---
 
-  ---
+## About
 
-  ## 💡 About Us
+IncoreSoft is a Ukrainian software company specializing in **AI video analytics and intelligent surveillance**. Our flagship platform **VEZHA** transforms standard camera infrastructure into a smart analytical system using computer vision and deep learning.
 
-  InCore Software Ukraine is a leading software development company specializing in enterprise solutions, digital transformation, and innovative technologies. We deliver high-quality software products and services that empower businesses to achieve their goals.
+We build products that help cities, businesses, and institutions make data-driven decisions from video streams in real time.
 
-  ### 🎯 Our Focus Areas
+---
 
-  - **Enterprise Software Development** - Scalable and robust solutions for modern businesses
-  - - **Digital Transformation** - Helping companies modernize their technology stack
-    - - **Cloud Solutions** - Cloud-native applications and migration services
-      - - **Custom Development** - Tailored software solutions to meet unique business needs
-       
-        - ---
+## VEZHA Platform
 
-        ## 🛠️ Technologies We Work With
+| Module | Description |
+|---|---|
+| **License Plate Recognition (ALPR)** | Automatic vehicle plate detection and recognition |
+| **Face Recognition** | Identity matching and verification from video feeds |
+| **Object Detection** | Zone-based intrusion and presence monitoring |
+| **Smoke & Fire Detection** | Early warning system for fire hazards |
+| **Traffic Analytics** | Vehicle counting, classification, and flow analysis |
+| **Smart Parking** | Real-time occupancy detection and management |
+| **Heat Map** | Spatial activity and crowd density visualization |
+| **Age & Gender Detection** | Demographic analytics for retail and public spaces |
+| **Pose Estimation** | Fall detection and body posture analysis |
+| **Smart Tracking System** | Person re-identification across multiple cameras |
+| **Hard Hat Detection** | PPE compliance monitoring for industrial sites |
+| **UIC & Container Recognition** | Railroad and logistics identification systems |
+| **Smart Video Analytics** | Consolidated intelligent video processing engine |
+| **Operator AI** | AI-assisted operator decision support |
 
-        ```text
-        Languages:    JavaScript/TypeScript, Python, Java, C#, PHP
-        Frontend:     React, Vue.js, Angular, Next.js
-        Backend:      Node.js, .NET, Spring Boot, Django
-        Cloud:        AWS, Azure, Google Cloud Platform
-        Database:     PostgreSQL, MongoDB, Redis, MySQL
-        DevOps:       Docker, Kubernetes, CI/CD, GitLab, Jenkins
-        ```
+> Full product details → [incoresoft.com/products](https://incoresoft.com/products/)
 
-        ---
+---
 
-        ## 🌟 Featured Projects
+## Industry Solutions
 
-        Check out our public repositories to see what we're building! We believe in open source and contributing to the developer community.
+| Sector | Focus |
+|---|---|
+| **Safe City** | Urban surveillance, incident detection, public safety analytics |
+| **Retail** | Customer flow analysis, demographic insights, loss prevention |
+| **Public Transportation** | Passenger monitoring and route optimization |
+| **Industry** | Workplace safety compliance and process monitoring |
+| **Private Property** | Perimeter security and access control |
+| **Education** | Campus safety and facility management |
 
-        ---
+> Explore all solutions → [incoresoft.com/solutions](https://incoresoft.com/solutions/)
 
-        ## 📫 Get In Touch
+---
 
-        **Looking to collaborate or need software development services?**
+## Tech Stack
+```
+AI / ML          Computer Vision, Deep Learning, Neural Networks
+Video            Real-time stream processing, Multi-camera support
+Deployment       On-premise, Edge, Cloud
+Integration      REST API, Webhooks, VMS/PSIM compatibility
+```
 
-        - 🌐 Visit our website: [incoresoft.com](https://incoresoft.com)
-        - - 💼 Connect on LinkedIn: [InCore Software Ukraine](https://linkedin.com/company/incoresoft-ukraine)
-          - - 📧 Email us: contact@incoresoft.com
-            - - 📍 Location: Ukraine
-             
-              - ---
+---
 
-              ## 🤝 Contributing
+## Documentation & Support
 
-              We welcome contributions to our open-source projects! Please check individual repository guidelines for contribution instructions.
+| Resource | Link |
+|---|---|
+| VEZHA Knowledge Base | [docs.incoresoft.com](https://docs.incoresoft.com/iv/incoresoft-vezha-documentation-en-688129.html) |
+| Help Desk | [support.incoresoft.com](https://support.incoresoft.com/servicedesk/customer/portal/1) |
+| Portal | [portal.incoresoft.com](https://portal.incoresoft.com) |
 
-              ---
+---
 
-              <div align="center">
+## Partnership
 
-                **⭐ Star our repositories if you find them useful!**
+We work with distributors, resellers, and technology partners worldwide.
 
-              *Empowering businesses through innovative technology solutions*
+- [Become a Partner](https://incoresoft.com/become-a-partner/)
+- [Distributors & Resellers](https://incoresoft.com/partners/)
+- [Technology Partners](https://incoresoft.com/technology-partners/)
 
-              © 2026 InCore Software Ukraine. All rights reserved.
+---
 
-              </div>
+## Get in Touch
+
+- 🌐 **Website:** [incoresoft.com](https://incoresoft.com)
+- 📧 **Contact:** [incoresoft.com/#contact](https://incoresoft.com/#contact)
+- 📍 **Location:** Ukraine 🇺🇦
+
+---
+
+<div align="center">
+
+**Built in Ukraine 🇺🇦**
+
+*Turning cameras into intelligence.*
+
+</div>
